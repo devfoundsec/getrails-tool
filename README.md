@@ -3,6 +3,9 @@
 </center>
 
 # GETRAILS
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9704d433d7604cfbb095d17f340c8ab2)](https://app.codacy.com/gh/Vault-Cyber-Security/getrails?utm_source=github.com&utm_medium=referral&utm_content=Vault-Cyber-Security/getrails&utm_campaign=Badge_Grade_Dashboard)
+
 Tool of OSINT and Dork hacking that work with Google and Duckduckgo
 
 ## Usage
