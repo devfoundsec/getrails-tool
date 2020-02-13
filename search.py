@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-from sys import argv, exit
+from sys import argv
 from duckduckgo.search import go_duck
 from google.search import go_gle
 
