@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 from sys import argv
-from duckduckgo.search import go_duck
-from google.search import go_gle
+from getrails import go_duck
+from getrails import go_gle
 
 # vars
 use = 'Use: search.py "<seach expression>"'
