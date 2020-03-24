@@ -12,6 +12,7 @@ Tool of OSINT and Dork hacking that work with Google and Duckduckgo
 ```man
 Use: search.py "<seach expression>"
         -d, --dorks             Dorks enable in Google and Duckduckgo hacking
+	-t, --tor	<term>	For search in hidden services
 ```
 ## Install
 
