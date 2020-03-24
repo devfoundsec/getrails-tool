@@ -1,1 +1,1 @@
-getrails==2.0
+getrails==2.5
