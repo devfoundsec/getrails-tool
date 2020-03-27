@@ -6,7 +6,7 @@ from getrails import go_onion
 from urllib import error
 
 # vars
-use = 'Use: search.py "<seach expression>"'
+use = 'Use: search.py [options] "<seach expression>"'
 art = '''
   ________        __                .__.__          
  /  _____/  _____/  |_____________  |__|  |   ______
@@ -29,7 +29,7 @@ banner = f'''\
 GeTrails are projet for OSINT and Dorks
 {use}
 \t-d, --dorks\t\tDorks enable in Google and Duckduckgo hacking
-\t-t, --tor  <term>\tFor search in hidden services 
+\t-o, --onion  <term>\tFor search in hidden services 
 Issue: github.com/Vault-Cyber-Security/getrails-tools/issues\
 '''
 
