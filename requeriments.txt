@@ -1,2 +1,2 @@
-getrails==2.6
+getrails==3.0
 mechanicalsoup
