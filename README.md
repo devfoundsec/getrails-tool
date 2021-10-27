@@ -1,3 +1,5 @@
+# **Getrails**
+
 <center>
   <img src="img/beta1.jpg" alt="Getrails" width="900px"/>
 </center>
